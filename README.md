@@ -1,5 +1,5 @@
 # ESS 411/511 Geophysical Continuum Mechanics
-Syllabus Autumn 2021
+
 Instructors:
 Brad Lipovsky
 email: bpl7 at uw.edu
@@ -8,17 +8,11 @@ Ed Waddington
 email: edw at uw.edu
 Office: ATG 715
 Office Hours: by arrangement
-Course description
-Continuum mechanics describes how internal and boundary forces can affect and change the
-interiors of bodies.
-Conservation laws and constitutive relations allow us to apply continuum concepts to studies
-of the Earth. In this class, we use Cartesian tensors to describe stress and strain, strain rate,
-and other continuum behaviors such as thermal response. For more details, see the Schedule
-page.
-Continuum mechanics was developed in the nineteenth century and is a fundamental
-underpinning of many fields of study besides the Earth Sciences. (For example, extracting a
-wine-bottle cork involves stress, strain, and constitutive relations.)
-Meetings
+
+## Course description
+Continuum mechanics describes how internal and boundary forces can affect and change the interiors of bodies. Conservation laws and constitutive relations allow us to apply continuum concepts to studies of the Earth. In this class, we use Cartesian tensors to describe stress and strain, strain rate, and other continuum behaviors such as thermal response. For more details, see the Schedule page. Continuum mechanics was developed in the nineteenth century and is a fundamental underpinning of many fields of study besides the Earth Sciences. (For example, extracting a wine-bottle cork involves stress, strain, and constitutive relations.)
+
+## Meetings
 Lectures M-W-F 10:30 – 11:20 JHN 170
 Problem sessions Th 1:30 – 2:50 JHN 170
 Grading policy

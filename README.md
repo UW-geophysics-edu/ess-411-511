@@ -28,8 +28,7 @@ Continuum mechanics describes how internal and boundary forces can affect and ch
 Each 511 participant will investigate a topic involving some aspect of continuum mechanics. Ideally it can be helpful to your research program. You will make an AGU/GSA-style 12- minute oral presentation of your results at 8:30 on Monday morning December 13, when we would otherwise be scheduled for a final exam (the final will be a take-home). You will also turn in a written report in the style and length of a short paper in Geology or Geophysical Research Letters.
 
 ## Readings
-G.T. Mase, R.E. Smelser, and G.E. Mase, 2009. Continuum mechanics for engineers. Third edition. CRC Press. ISBN: 978-1-4200-8538-9. [Text is available online through UW libraries](https://ebookcentral-proquestcom.
-offcampus.lib.washington.edu/lib/washington/detail.action?docID=1446640).
+G.T. Mase, R.E. Smelser, and G.E. Mase, 2009. Continuum mechanics for engineers. Third edition. CRC Press. ISBN: 978-1-4200-8538-9. [Text is available online through UW libraries](https://ebookcentral-proquestcom.offcampus.lib.washington.edu/lib/washington/detail.action?docID=1446640).
 
 Other reading assignments will be available on-line through the Reading Materials page (on left side of webpage).
 

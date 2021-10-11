@@ -1,12 +1,19 @@
 # ESS 411/511 Geophysical Continuum Mechanics
 
 Instructors:
+
 Brad Lipovsky
+
 email: bpl7 at uw.edu
+
 Office: ATG 218
+
 Ed Waddington
+
 email: edw at uw.edu
+
 Office: ATG 715
+
 Office Hours: by arrangement
 
 ## Course description
